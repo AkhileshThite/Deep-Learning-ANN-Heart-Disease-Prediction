@@ -1,1 +1,1 @@
-# Deep-Learning-ANN-Heart-Disease-Prediction
+# Deep Learning (ANN): Heart Disease Prediction

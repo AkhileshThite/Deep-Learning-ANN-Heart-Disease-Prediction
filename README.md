@@ -3,6 +3,7 @@
 ![](https://github.com/AkhileshThite/Portfolio/blob/master/heart.jpeg)
 
 • This dataset contains health information of patients in Cleveland, Ohio. The "goal" field refers to the presence of heart disease in the patient. It is integer valued from 0 (no presence) to 4.
+
 • With the help of **ANN** we can efficiently distinguish the presence (values 1,2,3,4) from absence (value 0).
 
 Attribute Information: 

@@ -1,6 +1,6 @@
 # Deep Learning (ANN): Heart Disease Prediction
 
-![](https://github.com/AkhileshThite/Portfolio/blob/master/heart.jpeg)
+![](imgs/main.jpeg)
 
 • This dataset contains health information of patients in Cleveland, Ohio. The "goal" field refers to the presence of heart disease in the patient. It is integer valued from 0 (no presence) to 4.
 
